@@ -4,12 +4,22 @@
 
 ### R Code 
 
-[Personal Project](https://external.ink?to=//sample_page)
+[Personal Project](/sample_page)
 
 Reconcile record counts when combining multiple files.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
+[Personal Project](/sample_page)
+
+List and import files from the Amazon AWS using the aws.s2 library.
+
+Presentation...
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 ---
 [Personal Project](/pdf/sample_presentation.pdf)
 
