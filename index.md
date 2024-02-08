@@ -2,14 +2,19 @@
 
 ---
 
-### Category Name 1 
+### R Code 
 
 [Personal Project](/sample_page)
-R code to reconcile record counts when combining multiple files.
+
+Reconcile record counts when combining multiple files.
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Personal Project](/pdf/sample_presentation.pdf)
+
+Presentation...
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
