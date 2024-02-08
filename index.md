@@ -4,7 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Personal Project](/sample_page)
+R code to reconcile record counts when combining multiple files.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
