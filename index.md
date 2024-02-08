@@ -4,14 +4,14 @@
 
 ### R Code 
 
-[Personal Project](/file_reconciliation)
+[Personal Project](/portfolio/code/R/file_reconciliation)
 
 Reconcile record counts when combining multiple files.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Personal Project](/aws_import)
+[Personal Project](/portfolio/code/R/aws_import)
 
 List and import files from the Amazon AWS using the aws.s2 library.
 
@@ -19,9 +19,9 @@ Presentation...
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+
 ---
----
-[Personal Project](/pdf/sample_presentation.pdf)
+[Personal Project](/portfolio/presentations/sample_presentation.pdf)
 
 Presentation...
 
