@@ -4,7 +4,7 @@
 
 ### R Code 
 
-[Personal Project](/sample_page)
+[Personal Project](https://external.ink?to=//sample_page)
 
 Reconcile record counts when combining multiple files.
 
