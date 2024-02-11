@@ -1,10 +1,22 @@
 title: Donnie Minnick # your name (or website title) here
 logo: "/images/headshot.jpg?raw=false" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  As a financial services professional with a passion for operational excellence and Lean Six Sigma, 
+  I discovered my affinity for the field of data analysis through the lens of transformative outcomes. 
+  My journey began at Prudential Financial, where I led enterprise-wide initiatives, harnessing the 
+  power of data to deliver $10.2 million in benefits and orchestrating cross-functional projects.
   <br><br>
-  Second description 
+  What intrigues me most about data is its ability to unveil hidden patterns and insights, empowering 
+  informed decision-making. The dynamic interplay of data allows me to uncover efficiencies and 
+  elevate the customer experience, fueling my commitment to driving positive change.
   <br><br>
+  My areas of interest within data analytics span a spectrum, from implementing comprehensive 
+  capability assessments to spearheading the operationalization of social business programs. 
+  <br><br>
+  On this page you can find some examples of my projects, most of them are links to a website 
+  or interactive visualization.
+  <br><br>
+  I hope you enjoy browsing my work and thank you for visiting!
   <a href="https://www.linkedin.com/in/donnieminnick/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
