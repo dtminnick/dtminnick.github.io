@@ -4,14 +4,15 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Financial services professional with a passion for operational excellence and Lean Six Sigma, 
   I uncovered my love for data analysis through transformative outcomes at Prudential Financial. 
-  Intrigued by its power to unveil insights, I specialize in driving positive change by uncovering 
+  Intrigued by its power to generate actionable insights, I specialize in driving positive change by uncovering 
   efficiencies and elevating customer experiences through dynamic data interplay. 
   <br><br>
   My interests in data analytics range from ... to .... 
   <br><br>
   Explore examples of my projects through interactive visualizations on this page. 
   Enjoy browsing my work, and thank you for visiting!
-  <a href="https://www.linkedin.com/in/donnieminnick/">View My LinkedIn Profile</a> 
+  <br><br>
+  <a href="https://www.linkedin.com/in/donnieminnick/">My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
