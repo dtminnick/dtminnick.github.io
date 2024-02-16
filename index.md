@@ -2,16 +2,13 @@
 
 ---
 
-### R Code Examples
+### R Codebits
 
-[Personal Project](https://github.com/dtminnick/codebits/blob/main/R/file_reconciliation.md)
+[Reconcile record counts](https://github.com/dtminnick/codebits/blob/main/R/file_reconciliation.md) when combining multiple files.
 
-Reconcile record counts when combining multiple files.
+[List and import files](/portfolio/code/R/sample_page) from the Amazon AWS using the aws.s2 library.
 
----
-[Personal Project](/portfolio/code/R/aws_import)
-
-List and import files from the Amazon AWS using the aws.s2 library.
+[Generate a calendar table](/portfolio/code/R/sample_page) using the dplyr library.
 
 Presentation...
 
