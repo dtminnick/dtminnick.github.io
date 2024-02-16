@@ -2,9 +2,9 @@
 
 ---
 
-### R Code 
+### R Code Examples
 
-[Personal Project](/portfolio/code/R/file_reconciliation)
+[Personal Project](www.github.com/dtminnick/codebits/R/file_reconciliation)
 
 Reconcile record counts when combining multiple files.
 
