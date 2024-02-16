@@ -4,11 +4,9 @@
 
 ### R Code Examples
 
-[Personal Project](www.github.com/dtminnick/codebits/R/file_reconciliation)
+[Personal Project]([www.github.com/dtminnick/codebits/R/file_reconciliation](https://github.com/dtminnick/codebits/blob/main/R/file_reconciliation.md)
 
 Reconcile record counts when combining multiple files.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Personal Project](/portfolio/code/R/aws_import)
@@ -18,7 +16,6 @@ List and import files from the Amazon AWS using the aws.s2 library.
 Presentation...
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 
 ---
 [Personal Project](/portfolio/presentations/sample_presentation.pdf)
