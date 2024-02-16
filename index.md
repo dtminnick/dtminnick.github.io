@@ -4,7 +4,7 @@
 
 ### R Code Examples
 
-[Personal Project]([www.github.com/dtminnick/codebits/R/file_reconciliation](https://github.com/dtminnick/codebits/blob/main/R/file_reconciliation.md)
+[Personal Project](https://github.com/dtminnick/codebits/blob/main/R/file_reconciliation.md)
 
 Reconcile record counts when combining multiple files.
 
