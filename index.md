@@ -6,7 +6,7 @@
 
 Useful codebits I developed to streamline and solve data analysis problems.
 
-[Count active events]([/portfolio/code/R/sample_page](https://github.com/dtminnick/codebits/blob/main/R/count_by_hour_interval.md)) by hour interval.
+[Count active events](https://github.com/dtminnick/codebits/blob/main/R/count_by_hour_interval.md) by hour interval.
 
 [Generate a calendar table](/portfolio/code/R/sample_page) using the `dplyr` library.
 
