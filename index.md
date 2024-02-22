@@ -4,7 +4,7 @@
 
 [Presentation](https://github.com/dtminnick/cyclistic/blob/main/inst/extdata/reference/Cyclistic%20Marketing%20Strategy%20Recommendations.pdf) I developed as part of the case study for the Google Data Analytics Professional Certificate program.  Details of my analysis are contained in [this Github repository](https://github.com/dtminnick/cyclistic).
 
-<img src="images/cyclistic_presentation_image.jpg?raw=true";border:0/>
+<img src="images/cyclistic_presentation_image.jpg?raw=true" style="display:block; border:0;"/>
 
 ---
 
