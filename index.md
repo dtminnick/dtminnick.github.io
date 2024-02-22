@@ -26,7 +26,13 @@ The presentation I developed as part of the Google Data Analytics Professional C
 
 [Personal Project](/portfolio/presentations/sample_presentation.pdf)
 
+[Presentation](https://github.com/dtminnick/cyclistic/blob/main/inst/extdata/reference/Cyclistic%20Marketing%20Strategy%20Recommendations.pdf) I developed as part of the case study for the Google Data Analytics Professional Certificate program.
+
+<img src="https://github.com/dtminnick/cyclistic/blob/main/inst/extdata/reference/presentation_image.png"?raw=false"/>
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
 
 ---
 
