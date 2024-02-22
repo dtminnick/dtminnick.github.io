@@ -2,6 +2,14 @@
 
 ---
 
+### Cyclistic Analysis and Presentation
+
+[Presentation](https://github.com/dtminnick/cyclistic/blob/main/inst/extdata/reference/Cyclistic%20Marketing%20Strategy%20Recommendations.pdf) I developed as part of the case study for the Google Data Analytics Professional Certificate program.
+
+<img src="images/cylistic_presentation_image.png?raw=false"/>
+
+---
+
 ### R Codebits
 
 Useful codebits I developed to streamline and solve data analysis problems.
@@ -17,22 +25,6 @@ Useful codebits I developed to streamline and solve data analysis problems.
 [List and import files](/portfolio/code/R/sample_page) from the Amazon AWS using the `aws.s2` library.
 
 [Reconcile record counts](https://github.com/dtminnick/codebits/blob/main/R/file_reconciliation.md) when combining multiple files.
-
----
-
-### Cyclistic Analysis and Presentation
-
-The presentation I developed as part of the Google Data Analytics Professional Certificate program.
-
-[Personal Project](/portfolio/presentations/sample_presentation.pdf)
-
-[Presentation](https://github.com/dtminnick/cyclistic/blob/main/inst/extdata/reference/Cyclistic%20Marketing%20Strategy%20Recommendations.pdf) I developed as part of the case study for the Google Data Analytics Professional Certificate program.
-
-<img src="https://github.com/dtminnick/cyclistic/blob/main/inst/extdata/reference/presentation_image.png"?raw=false"/>
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
 
 ---
 
