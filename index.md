@@ -8,6 +8,12 @@
 
 ---
 
+### Sunspot Data
+
+[Consolidated sunspot dataset](https://github.com/dtminnick/sunspot) I created from 143 fixed-width ASCII files on NASA's Solar Physics website, containing records for sunspot observations for the years 1874 through 2016.
+
+---
+
 ### R Codebits
 
 Useful codebits I developed to streamline and solve data analysis problems.
