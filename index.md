@@ -1,5 +1,11 @@
 ## Portfolio
 
+### Cyclistic Customer Analytics Dashboard
+
+[Interactive dashboard]([https://github.com/dtminnick/cyclistic/blob/main/inst/extdata/reference/Cyclistic%20Marketing%20Strategy%20Recommendations.pdf](https://lookerstudio.google.com/s/iQMxOSAScu4)) I developed as part of the case study for the Google Data Business Intelligence Professional Certificate program.
+
+<img src="images/cyclistic_dashboard_image.png?raw=true" style="display:block; border:0;"/>
+
 ### Cyclistic Analysis and Presentation
 
 [Presentation](https://github.com/dtminnick/cyclistic/blob/main/inst/extdata/reference/Cyclistic%20Marketing%20Strategy%20Recommendations.pdf) I developed as part of the case study for the Google Data Analytics Professional Certificate program.  Details of my analysis are contained in [this Github repository](https://github.com/dtminnick/cyclistic).
