@@ -2,7 +2,7 @@
 
 ### Cyclistic Customer Analytics Dashboard
 
-[Interactive dashboard](https://lookerstudio.google.com/s/iQMxOSAScu4) I developed as part of the case study for the Google Data Business Intelligence Professional Certificate program.
+[Interactive dashboard](https://lookerstudio.google.com/s/iQMxOSAScu4) I developed using Google Looker as part of the case study for the Google Data Business Intelligence Professional Certificate program.
 
 <img src="images/cyclistic_dashboard_image.png?raw=true" style="display:block; border:0;"/>
 
