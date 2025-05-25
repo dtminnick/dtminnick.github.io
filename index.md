@@ -24,6 +24,8 @@
 
 Useful codebits I developed to streamline and solve data analysis problems.
 
+[Combined line event chart](https://github.com/dtminnick/codebits/blob/main/R/combined_line_event_xhart.md) to show metric values and related events that influence that metric.
+
 [Count active events](https://github.com/dtminnick/codebits/blob/main/R/count_by_hour_interval.md) by hour interval.
 
 [Create a Likert diverging stacked bar chart](https://github.com/dtminnick/codebits/blob/main/R/likert_diverging_stacked_chart.md) using the `ggstats` library.
